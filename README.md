@@ -1,12 +1,12 @@
 # Cameron White
 
-**Software Developer → AI Security & Cloud**
+**Software Engineer → AI Security & Cloud**
 
 Brisbane, Australia · [LinkedIn](https://www.linkedin.com/in/cameron-white-517560168) · [Portfolio](https://www.reactivecrypto.xyz/)
 
 ---
 
-I'm a full-stack software developer with 5+ years of experience building production-grade, real-time systems - currently completing a **Master of Cyber Security at QUT** and transitioning into AI security and cloud infrastructure.
+I'm a full-stack software engineer with 5+ years of experience building production-grade, real-time systems - currently completing a **Master of Cyber Security at QUT** and transitioning into AI security and cloud infrastructure.
 
 My background sits at an unusual intersection: I've built automated trading systems processing high-frequency market data, secured APIs and role-based access control systems in regulated fintech environments, and designed distributed architectures that need to be both fast and resilient. Now I'm applying that foundation to the security of AI systems and cloud infrastructure.
 
