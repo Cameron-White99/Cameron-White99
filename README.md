@@ -26,7 +26,7 @@ My background sits at an unusual intersection: I've built automated trading syst
 - 🔐 Built: **AI Security Scanner** : prompt injection detection pipeline with LLM fallback, risk scoring (0–100), audit logging, live dashboard \
   · [Live demo](https://ai-security-scanner-weld.vercel.app/)
 - 🤖 Built: **Autonomous Security Analyst** : parallel multi-agent SOC assistant using asyncio fan-out/fan-in, MITRE ATT&CK mapping, live SSE agent feed \
-  · [Live demo](https://autonomous-security-analyst-ksd35ngq2.vercel.app/)
+  · [Live demo](https://autonomous-security-analyst.vercel.app/)
 - ☁️ Pursuing: Google Cloud Digital Leader → Associate Cloud Engineer
 
 ---
